@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main-title {
+  color: #091e42;
+}
+
+.landing {
+  background-image: url("images/landingbg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 57.25rem;
+}
+
+.projects-cards {
+  background: #e5e5e5;
+}
+
+footer {
+  background: #6070ff;
+  color: white;
+  background-image: url("images/contact-form-bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 52.875rem;
+}
