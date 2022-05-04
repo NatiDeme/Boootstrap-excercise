@@ -18,3 +18,14 @@ height: 57.25rem;
 .projects-cards {
   background: #E5E5E5;
 }
+
+
+footer {
+  background: #6070FF;
+  color: white;
+
+  background-image: url("images/contact-form-bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+height: 52.875rem;
+}
