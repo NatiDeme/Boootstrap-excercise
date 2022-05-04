@@ -11,21 +11,18 @@ body {
   background-image: url("images/landingbg.png");
   background-repeat: no-repeat;
   background-size: cover;
-height: 57.25rem;
+  height: 57.25rem;
 }
-
 
 .projects-cards {
-  background: #E5E5E5;
+  background: #e5e5e5;
 }
 
-
 footer {
-  background: #6070FF;
+  background: #6070ff;
   color: white;
-
   background-image: url("images/contact-form-bg.svg");
   background-repeat: no-repeat;
   background-size: cover;
-height: 52.875rem;
+  height: 52.875rem;
 }
